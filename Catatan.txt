@@ -1,0 +1,31 @@
+text statistik udh
+CRUD udh
+export xlsx udh
+import xlsx udh
+export pdf udh
+Perhitungan frekwensi udah
+fitur sorting udh
+
+link referensi: 
+Excel :
+https://www.youtube.com/watch?v=miB_itZUsag&ab_channel=BamaraID
+
+PDF :
+https://youtu.be/X6z_vXvjeF0
+
+Modal :
+https://github.com/manangouhari/tailwind-components/blob/master/modal.html 
+Multiple Modal :
+https://tailwindcomponents.com/component/multiple-modals-on-the-same-page
+Delete Modal:
+https://tailwindcomponents.com/component/tailwind-css-modal-popup
+
+Pagination :
+https://www.youtube.com/watch?v=0dntoif9j04&ab_channel=SUSANTOKUN
+
+Sorting :
+https://www.youtube.com/watch?v=mD1mqiW7iE4
+
+
+
+https://www.youtube.com/watch?v=mD1mqiW7iE4&ab_channel=Novinaldi
